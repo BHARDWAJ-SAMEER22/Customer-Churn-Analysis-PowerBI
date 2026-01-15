@@ -25,3 +25,9 @@ This project analyzes customer churn for a telecom company to identify key facto
 
 ## Objective
 To help businesses understand customer churn patterns and improve retention strategies.
+
+## Dashboard Preview
+![Churn Dashboard](Dashboard-pw.png)
+
+##Insights Preview
+![Insights](Insights.png)
